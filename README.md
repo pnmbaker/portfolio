@@ -1,9 +1,9 @@
 # Precious Baker
 
 ### Education
-## Purdue University
-Bachelor of Science, Applied Statistics
-Bachelor of Science, Computer and Information Technology
+**Purdue University**
+- Bachelor of Science, Applied Statistics
+- Bachelor of Science, Computer and Information Technology
 
 ### Work Experience
 Undergraduate Teaching Assistant @ Purdue University
@@ -15,8 +15,8 @@ Developer Intern @ The J.M. Smucker Company
 - Developed and automated 41 test scenarios to validate Workday and BuyerQuest scenarios
 - Collaborated with Accounts Payable to create a new proxy account to schedule 26 jobs in Oracle
 
-  ### Projects
-  **Probability Paradox**
-  **Study on Life Expectancy and Possible Contributing Factors**
+### Projects
+**Probability Paradox**
+**Study on Life Expectancy and Possible Contributing Factors**
   
 
